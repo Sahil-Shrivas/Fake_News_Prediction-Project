@@ -74,7 +74,7 @@ The workflow includes:
 
 ---
 
-✅ Future Improvements
+## ✅ Future Improvements
 
 - Implement deep learning models (LSTM, BERT) for higher accuracy
 
@@ -103,8 +103,9 @@ The workflow includes:
    
 ---
 
-📬 Contact
+## 📬 Contact
 
 - Author: Sahil Shrivas
 - GitHub: https://github.com/Sahil-Shrivas
     
+
