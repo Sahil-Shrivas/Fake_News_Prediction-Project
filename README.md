@@ -36,7 +36,10 @@ The workflow includes:
 
 ---
 
+## Screenshot
 
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/Fake_News_Prediction-Project/refs/heads/main/Screenshot%202025-12-18%20202511.png)
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/Fake_News_Prediction-Project/refs/heads/main/Screenshot%202025-12-18%20202615.png)
 
 ---
 
@@ -112,5 +115,6 @@ The workflow includes:
 - Author: Sahil Shrivas
 - GitHub: https://github.com/Sahil-Shrivas
     
+
 
 
